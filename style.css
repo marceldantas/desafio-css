@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    font-family: monospace;
+}
+
+.container{
+    width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    background: url(./Imagens/backgorund.png);
+    background-size: cover;
+    padding: 1px 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.instagram{
+    list-style-image: url(./Imagens/Insta.png);
+}
+
+.twitter{
+    list-style-image: url(./Imagens/Twitter.png);
+}
+
+.youtube{
+    list-style-image: url(./Imagens/Youtube.png);
+}
